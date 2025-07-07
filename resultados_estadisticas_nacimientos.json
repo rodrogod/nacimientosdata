@@ -1,0 +1,581 @@
+{
+  "fecha_procesamiento": "2025-07-05 21:01:17",
+  "entidades_federativas": {
+    "Aguascalientes": {
+      "estadisticas_padre": {
+        "promedio_edad": 29.3,
+        "edad_minima": 14,
+        "edad_maxima": 75,
+        "total_registros_validos": 15890
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.39,
+        "edad_minima": 13,
+        "edad_maxima": 50,
+        "total_registros_validos": 18324
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 11.21
+      },
+      "archivo_grafico": "graficas/Aguascalientes.png"
+    },
+    "Baja California": {
+      "estadisticas_padre": {
+        "promedio_edad": 30.1,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 47000
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.66,
+        "edad_minima": 10,
+        "edad_maxima": 50,
+        "total_registros_validos": 51942
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 8.28
+      },
+      "archivo_grafico": "graficas/Baja California.png"
+    },
+    "Baja California Sur": {
+      "estadisticas_padre": {
+        "promedio_edad": 30.04,
+        "edad_minima": 12,
+        "edad_maxima": 74,
+        "total_registros_validos": 9456
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.77,
+        "edad_minima": 12,
+        "edad_maxima": 50,
+        "total_registros_validos": 10348
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 9.11
+      },
+      "archivo_grafico": "graficas/Baja California Sur.png"
+    },
+    "Campeche": {
+      "estadisticas_padre": {
+        "promedio_edad": 30.31,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 11401
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.53,
+        "edad_minima": 12,
+        "edad_maxima": 50,
+        "total_registros_validos": 12843
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 11.0
+      },
+      "archivo_grafico": "graficas/Campeche.png"
+    },
+    "Coahuila": {
+      "estadisticas_padre": {
+        "promedio_edad": 29.03,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 32534
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.06,
+        "edad_minima": 11,
+        "edad_maxima": 50,
+        "total_registros_validos": 35305
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 6.76
+      },
+      "archivo_grafico": "graficas/Coahuila.png"
+    },
+    "Colima": {
+      "estadisticas_padre": {
+        "promedio_edad": 30.63,
+        "edad_minima": 14,
+        "edad_maxima": 73,
+        "total_registros_validos": 8156
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.81,
+        "edad_minima": 12,
+        "edad_maxima": 48,
+        "total_registros_validos": 9007
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 10.16
+      },
+      "archivo_grafico": "graficas/Colima.png"
+    },
+    "Chiapas": {
+      "estadisticas_padre": {
+        "promedio_edad": 30.36,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 109492
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.34,
+        "edad_minima": 10,
+        "edad_maxima": 50,
+        "total_registros_validos": 123190
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 9.5
+      },
+      "archivo_grafico": "graficas/Chiapas.png"
+    },
+    "Chihuahua": {
+      "estadisticas_padre": {
+        "promedio_edad": 29.16,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 38840
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 25.77,
+        "edad_minima": 10,
+        "edad_maxima": 50,
+        "total_registros_validos": 43923
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 9.96
+      },
+      "archivo_grafico": "graficas/Chihuahua.png"
+    },
+    "Ciudad de México": {
+      "estadisticas_padre": {
+        "promedio_edad": 31.54,
+        "edad_minima": 13,
+        "edad_maxima": 75,
+        "total_registros_validos": 66618
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 28.19,
+        "edad_minima": 10,
+        "edad_maxima": 50,
+        "total_registros_validos": 74557
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 9.05
+      },
+      "archivo_grafico": "graficas/Ciudad de México.png"
+    },
+    "Durango": {
+      "estadisticas_padre": {
+        "promedio_edad": 29.61,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 19760
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.17,
+        "edad_minima": 10,
+        "edad_maxima": 50,
+        "total_registros_validos": 21694
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 7.06
+      },
+      "archivo_grafico": "graficas/Durango.png"
+    },
+    "Guanajuato": {
+      "estadisticas_padre": {
+        "promedio_edad": 29.43,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 79927
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.51,
+        "edad_minima": 10,
+        "edad_maxima": 50,
+        "total_registros_validos": 91292
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 11.45
+      },
+      "archivo_grafico": "graficas/Guanajuato.png"
+    },
+    "Guerrero": {
+      "estadisticas_padre": {
+        "promedio_edad": 29.98,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 48933
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.21,
+        "edad_minima": 10,
+        "edad_maxima": 50,
+        "total_registros_validos": 52632
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 7.03
+      },
+      "archivo_grafico": "graficas/Guerrero.png"
+    },
+    "Hidalgo": {
+      "estadisticas_padre": {
+        "promedio_edad": 30.1,
+        "edad_minima": 13,
+        "edad_maxima": 75,
+        "total_registros_validos": 28429
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.55,
+        "edad_minima": 10,
+        "edad_maxima": 50,
+        "total_registros_validos": 31110
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 8.05
+      },
+      "archivo_grafico": "graficas/Hidalgo.png"
+    },
+    "Jalisco": {
+      "estadisticas_padre": {
+        "promedio_edad": 30.19,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 112046
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.76,
+        "edad_minima": 11,
+        "edad_maxima": 50,
+        "total_registros_validos": 122847
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 8.98
+      },
+      "archivo_grafico": "graficas/Jalisco.png"
+    },
+    "Edo. de México": {
+      "estadisticas_padre": {
+        "promedio_edad": 29.41,
+        "edad_minima": 13,
+        "edad_maxima": 75,
+        "total_registros_validos": 181712
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.26,
+        "edad_minima": 11,
+        "edad_maxima": 50,
+        "total_registros_validos": 204287
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 10.65
+      },
+      "archivo_grafico": "graficas/Edo. de México.png"
+    },
+    "Michoacán": {
+      "estadisticas_padre": {
+        "promedio_edad": 30.02,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 68590
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.49,
+        "edad_minima": 10,
+        "edad_maxima": 50,
+        "total_registros_validos": 75385
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 9.45
+      },
+      "archivo_grafico": "graficas/Michoacán.png"
+    },
+    "Morelos": {
+      "estadisticas_padre": {
+        "promedio_edad": 30.06,
+        "edad_minima": 14,
+        "edad_maxima": 75,
+        "total_registros_validos": 20191
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.46,
+        "edad_minima": 11,
+        "edad_maxima": 50,
+        "total_registros_validos": 22755
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 10.54
+      },
+      "archivo_grafico": "graficas/Morelos.png"
+    },
+    "Nayarit": {
+      "estadisticas_padre": {
+        "promedio_edad": 30.6,
+        "edad_minima": 13,
+        "edad_maxima": 75,
+        "total_registros_validos": 16130
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.6,
+        "edad_minima": 10,
+        "edad_maxima": 50,
+        "total_registros_validos": 18003
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 10.1
+      },
+      "archivo_grafico": "graficas/Nayarit.png"
+    },
+    "Nuevo León": {
+      "estadisticas_padre": {
+        "promedio_edad": 29.9,
+        "edad_minima": 13,
+        "edad_maxima": 72,
+        "total_registros_validos": 63083
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 27.01,
+        "edad_minima": 12,
+        "edad_maxima": 50,
+        "total_registros_validos": 70084
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 8.63
+      },
+      "archivo_grafico": "graficas/Nuevo León.png"
+    },
+    "Oaxaca": {
+      "estadisticas_padre": {
+        "promedio_edad": 30.39,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 59446
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.46,
+        "edad_minima": 10,
+        "edad_maxima": 50,
+        "total_registros_validos": 66540
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 10.87
+      },
+      "archivo_grafico": "graficas/Oaxaca.png"
+    },
+    "Puebla": {
+      "estadisticas_padre": {
+        "promedio_edad": 29.32,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 87529
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.05,
+        "edad_minima": 11,
+        "edad_maxima": 50,
+        "total_registros_validos": 96568
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 8.7
+      },
+      "archivo_grafico": "graficas/Puebla.png"
+    },
+    "Querétaro": {
+      "estadisticas_padre": {
+        "promedio_edad": 30.37,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 27652
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 27.33,
+        "edad_minima": 13,
+        "edad_maxima": 50,
+        "total_registros_validos": 30773
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 9.96
+      },
+      "archivo_grafico": "graficas/Querétaro.png"
+    },
+    "Quintana Roo": {
+      "estadisticas_padre": {
+        "promedio_edad": 30.7,
+        "edad_minima": 14,
+        "edad_maxima": 75,
+        "total_registros_validos": 18192
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.89,
+        "edad_minima": 11,
+        "edad_maxima": 50,
+        "total_registros_validos": 20105
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 8.23
+      },
+      "archivo_grafico": "graficas/Quintana Roo.png"
+    },
+    "San Luis Potosí": {
+      "estadisticas_padre": {
+        "promedio_edad": 30.05,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 34986
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.81,
+        "edad_minima": 10,
+        "edad_maxima": 50,
+        "total_registros_validos": 39300
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 10.41
+      },
+      "archivo_grafico": "graficas/San Luis Potosí.png"
+    },
+    "Sinaloa": {
+      "estadisticas_padre": {
+        "promedio_edad": 30.57,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 35700
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.98,
+        "edad_minima": 10,
+        "edad_maxima": 50,
+        "total_registros_validos": 40656
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 10.78
+      },
+      "archivo_grafico": "graficas/Sinaloa.png"
+    },
+    "Sonora": {
+      "estadisticas_padre": {
+        "promedio_edad": 29.9,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 34650
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.38,
+        "edad_minima": 10,
+        "edad_maxima": 50,
+        "total_registros_validos": 38899
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 10.9
+      },
+      "archivo_grafico": "graficas/Sonora.png"
+    },
+    "Tabasco": {
+      "estadisticas_padre": {
+        "promedio_edad": 30.51,
+        "edad_minima": 13,
+        "edad_maxima": 75,
+        "total_registros_validos": 29067
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.3,
+        "edad_minima": 12,
+        "edad_maxima": 50,
+        "total_registros_validos": 32241
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 9.55
+      },
+      "archivo_grafico": "graficas/Tabasco.png"
+    },
+    "Tamaulipas": {
+      "estadisticas_padre": {
+        "promedio_edad": 29.93,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 38182
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.47,
+        "edad_minima": 12,
+        "edad_maxima": 50,
+        "total_registros_validos": 42326
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 9.61
+      },
+      "archivo_grafico": "graficas/Tamaulipas.png"
+    },
+    "Tlaxcala": {
+      "estadisticas_padre": {
+        "promedio_edad": 29.12,
+        "edad_minima": 14,
+        "edad_maxima": 75,
+        "total_registros_validos": 12262
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.02,
+        "edad_minima": 10,
+        "edad_maxima": 49,
+        "total_registros_validos": 13594
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 7.16
+      },
+      "archivo_grafico": "graficas/Tlaxcala.png"
+    },
+    "Veracruz": {
+      "estadisticas_padre": {
+        "promedio_edad": 30.29,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 85831
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.33,
+        "edad_minima": 11,
+        "edad_maxima": 50,
+        "total_registros_validos": 95928
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 10.83
+      },
+      "archivo_grafico": "graficas/Veracruz.png"
+    },
+    "Yucatán": {
+      "estadisticas_padre": {
+        "promedio_edad": 29.76,
+        "edad_minima": 13,
+        "edad_maxima": 75,
+        "total_registros_validos": 24150
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.82,
+        "edad_minima": 11,
+        "edad_maxima": 50,
+        "total_registros_validos": 26205
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 8.3
+      },
+      "archivo_grafico": "graficas/Yucatán.png"
+    },
+    "Zacatecas": {
+      "estadisticas_padre": {
+        "promedio_edad": 29.84,
+        "edad_minima": 12,
+        "edad_maxima": 75,
+        "total_registros_validos": 19113
+      },
+      "estadisticas_madre": {
+        "promedio_edad": 26.75,
+        "edad_minima": 10,
+        "edad_maxima": 50,
+        "total_registros_validos": 20593
+      },
+      "diferencia_edad": {
+        "promedio_padre_minus_madre": 6.59
+      },
+      "archivo_grafico": "graficas/Zacatecas.png"
+    }
+  }
+}
