@@ -423,20 +423,17 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 
-        // Evento para seleccionar en móviles (touch)
+        // Evento para selección en móviles (touch)
         edo.addEventListener("touchend", function(e) {
-            // Prevenir que el evento se propague y cause scroll o zoom
-            e.preventDefault();
+            e.preventDefault(); // Evita doble disparo y scroll
             e.stopPropagation();
 
-            // Mostrar overlay y panel
             overlay.classList.add("active");
             sidepanel.classList.add("side-panel-open");
             loading.innerText = "Cargando..."; 
             container.classList.add('hide');
             loading.classList.remove('hide');
 
-            // Obtener el nombre del estado igual que en el click
             let clickedStateName = this.getAttribute("name");
             if (!clickedStateName) {
                 clickedStateName = this.getAttribute("data-name") || 
